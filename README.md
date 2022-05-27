@@ -1,7 +1,7 @@
 ## Hey! Welcome
 
 - :mortar_board: Recém-licenciada em Análise e Desenvolvimento de Sistemas
-- 🔭 Aprendendo desenvolvimento Backend com Java e Spring Boot
+- 🔭 Quality Assurance | Automation Tester
 <!--- 🌱 -->
 
  ## Ferramentas que estou estudando :hammer_and_wrench:
