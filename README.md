@@ -1,7 +1,7 @@
 ## Hey! Welcome
 
 - :mortar_board: Recém-licenciada em Análise e Desenvolvimento de Sistemas
-- 🔭 Quality Assurance | Automation Tester
+- 🔭 QA Automation Tester
 <!--- 🌱 -->
 
  ## Ferramentas que estou estudando :hammer_and_wrench:
