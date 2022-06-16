@@ -1,7 +1,7 @@
 ## Hey! Welcome
 
-- :mortar_board: Recém-licenciada em Análise e Desenvolvimento de Sistemas
-- 🔭 QA Automation Tester
+- :mortar_board: Recently graduated in Systems Analysis and Development
+- 🔭 QA | Automation Tester
 <!--- 🌱 -->
 
  ## Tools and programming language :hammer_and_wrench:
