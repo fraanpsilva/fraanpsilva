@@ -4,7 +4,7 @@
 - 🔭 QA Automation Tester
 <!--- 🌱 -->
 
- ## Ferramentas que estou estudando :hammer_and_wrench:
+ ## Tools and programming language :hammer_and_wrench:
  <div>
    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
